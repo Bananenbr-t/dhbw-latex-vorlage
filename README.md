@@ -137,8 +137,8 @@ Dazu empfehlen sich folgende lösungen:
 Um einen dieser Clouddienste zu benutzen, muss sich das Projektverzeichnis in dem Verzeichnis des jeweiligen Anbieters befinden.
 
 ## Kollaboration
-Für änderungen jeglicher art, bitte dieses repository forken und einen Pullrequest einstellen.
-Jegliche Hilfe dieses Projekt *Up-To-Date* zu halten ist eußerst willkommen.
+Für Änderungen jeglicher Art, bitte dieses Repository forken und einen Pullrequest einstellen.
+Jegliche Hilfe dieses Projekt *Up-To-Date* zu halten ist äußerst willkommen.
 
 ## Credits
 Inspiriert von der Vorlage von Markus Schutz (WI06).
