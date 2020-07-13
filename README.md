@@ -1,3 +1,5 @@
+**Dieses Projekt ist ein Fork von https://github.com/julianbei/vorlage-dhbw-rv-wi und eventuell leicht angepasst**
+
 # Vorlage für Wissenschaftliche Arbeiten der DHBW Ravensburg / Wirtschaftsinformatik
 Diese LaTeX Vorlage dient als Grundlage für wissenschaftliche Arbeiten an der DHBW Ravensburg in der Fakultät für Wirtschaft im Studiengang Wirtschaftsinformatik.
 
