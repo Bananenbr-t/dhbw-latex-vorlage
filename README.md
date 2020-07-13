@@ -1,4 +1,4 @@
-**Dieses Projekt ist ein Fork von https://github.com/julianbei/vorlage-dhbw-rv-wi und eventuell leicht angepasst**
+**Dieses Projekt ist ein Fork von https://github.com/julianbei/vorlage-dhbw-rv-wi und (eventuell) leicht angepasst**
 
 # Vorlage für Wissenschaftliche Arbeiten der DHBW Ravensburg / Wirtschaftsinformatik
 Diese LaTeX Vorlage dient als Grundlage für wissenschaftliche Arbeiten an der DHBW Ravensburg in der Fakultät für Wirtschaft im Studiengang Wirtschaftsinformatik.
@@ -26,31 +26,21 @@ Das .zip entpacken und den Inhalt in dein gewünschtes Arbeitsverzeichnis kopier
 Es empfiehlt sich Wissenschaftliche Arbeiten mit TexStudio zu bearbeiten.
 
 ### Installation MacOS
-TBD
-short:
 - download and install [MacTex](https://tug.org/mactex/)
 - download and install [TexStudio](http://www.texstudio.org/)
-- be happy
 
 ### Installation Linux
-TBD
-short:
 - download and install [TexLive](https://www.tug.org/texlive/)
 - download and install [TexStudio](http://www.texstudio.org/)
-- be happy
 
 #### Debian Based (bspw. Ubuntu):
-
 ```
 sudo apt-get install texlive-full
 ```
 
 ### Installation Windows
-TBD (wer benutzt schon freiwillig windows)
 - download and install [MikTex](http://miktex.org/)
 - download and install [TexStudio](http://www.texstudio.org/)
-- switch to Linux or MacOs
-- think about how much the last step impacted your live in terms of happiness!
 
 ## Konfiguration von TexStudio
 Konfiguration für TeXstudio: <br>
@@ -115,7 +105,7 @@ siehe [INITIAL_CONFIG](HOWTO/INITIAL_CONFIG.md)
 Es empfiehlt sich pro Kapitel eine neue Datei anzulegen.
 
 ### Referenzen und Verzeichnisse
-TBD
+TODO
 
 ### Literaturarbeit
 Für die Erstellung des Literaturverzeichnises empfiehlt sich die Verwendung von:
@@ -127,27 +117,23 @@ Die Datei ist unter ```./literatur/literatur.bib``` zu speichern.
 
 ## <a name="Versionierung-und-Backup"></a>Versionierung und Backup
 Es empfielt sich für das Schreiben von wissenschaftlichen Arbeiten eine Versionierung wie git zu verwenden.
-Falls dies nicht möglich ist (bspw. weil man nicht bereit is für private repositories zu bezahlen), dann sollte man zumindest eine andere form des automatischen Backups verwenden.
-Dazu empfehlen sich folgende lösungen:
-  - Dropbox (2GB Kostenlos):
+Falls dies nicht möglich ist (bspw. weil man nicht bereit ist für private Repositories zu bezahlen), dann sollte man zumindest eine andere Form des automatischen Backups verwenden.
+Dazu empfehlen sich folgende Lösungen:
+  - Dropbox (2GB kostenlos):
     https://www.dropbox.com/
-  - Google Drive (15 GB Kostenlos):
+  - Google Drive (15 GB kostenlos):
     https://www.google.com/drive/
-  - Microsoft OneDrive (Kostenpflichtig):
+  - Microsoft OneDrive (5GB kostenlos):
     https://onedrive.live.com/about/en-us/
 
 Um einen dieser Clouddienste zu benutzen, muss sich das Projektverzeichnis in dem Verzeichnis des jeweiligen Anbieters befinden.
 
-## Kollaboration
-Für Änderungen jeglicher Art, bitte dieses Repository forken und einen Pullrequest einstellen.
-Jegliche Hilfe dieses Projekt *Up-To-Date* zu halten ist äußerst willkommen.
-
 ## Credits
 Inspiriert von der Vorlage von Markus Schutz (WI06).
 
-## [License](LICESE.md)
+## [License](LICENSE.md)
 The MIT License (MIT)
-Copyright (c) 2016 Julian Amelung
+Copyright (c) 2020 Volker Schafflik
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
